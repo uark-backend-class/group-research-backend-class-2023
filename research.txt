@@ -1,0 +1,54 @@
+A. Enter the top three most populous cities in the world below
+1.
+2.
+3.
+
+B. Enter the name of the top three tallest mountains in the world below
+1.
+2.
+3.
+
+C. Enter the lightest elements by atomic mass below
+1.
+2.
+3.
+
+D. Enter the top three companies in the fortune 500 below
+1.
+2.
+3.
+
+E. Enter the three most popular websites by traffic below
+1.
+2.
+3.
+
+F. Enter the three largest states by land mass below
+1.
+2.
+3.
+
+G. Enter the three largest states by population below
+1.
+2.
+3.
+
+H. Enter the three largest cats below
+1.
+2.
+3.
+
+I. Enter the three highest grossing movies of all time below
+1.
+2.
+3.
+
+J. Enter the largest companies by revenue below
+1.
+2.
+3.
+
+K. Enter the top three search engines below
+1.
+2.
+3.
