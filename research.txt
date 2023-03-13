@@ -1,7 +1,7 @@
 A. Enter the top three most populous cities in the world below
-1.
-2.
-3.
+1. Tokyo
+2. Delhi
+3. Shanghai
 
 B. Enter the name of the top three tallest mountains in the world below
 1.
