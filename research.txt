@@ -29,9 +29,9 @@ F. Enter the three largest states by land mass below
 3.
 
 G. Enter the three largest states by population below
-1.
-2.
-3.
+1. California
+2. Texas
+3. Florida
 
 H. Enter the three largest cats below
 1.
