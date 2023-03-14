@@ -14,9 +14,9 @@ C. Enter the lightest elements by atomic mass below
 3.
 
 D. Enter the top three companies in the fortune 500 below
-1.
-2.
-3.
+1.Walmart
+2.Amazon
+3.Apple
 
 E. Enter the three most popular websites by traffic below
 1.
