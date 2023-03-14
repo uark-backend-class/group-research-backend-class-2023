@@ -4,9 +4,9 @@ A. Enter the top three most populous cities in the world below
 3. Shanghai
 
 B. Enter the name of the top three tallest mountains in the world below
-1.
-2.
-3.
+1. Mt. Everest (29,032 Feet)
+2. K2 (28,251 Feet)
+3. Kangchenjunga (28,169 Feet)
 
 C. Enter the lightest elements by atomic mass below
 1.
