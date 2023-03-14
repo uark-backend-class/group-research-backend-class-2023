@@ -24,9 +24,9 @@ E. Enter the three most popular websites by traffic below
 3.
 
 F. Enter the three largest states by land mass below
-1.
-2.
-3.
+1. Alaska
+2. Texas
+3. California
 
 G. Enter the three largest states by population below
 1. California
