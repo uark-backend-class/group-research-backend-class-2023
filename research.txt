@@ -19,9 +19,9 @@ D. Enter the top three companies in the fortune 500 below
 3.Apple
 
 E. Enter the three most popular websites by traffic below
-1.
-2.
-3.
+1. Youtube
+2. Wikipedia
+3. Twitter
 
 F. Enter the three largest states by land mass below
 1. Alaska
