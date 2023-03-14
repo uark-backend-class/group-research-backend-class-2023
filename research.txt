@@ -9,9 +9,9 @@ B. Enter the name of the top three tallest mountains in the world below
 3. Kangchenjunga (28,169 Feet)
 
 C. Enter the lightest elements by atomic mass below
-1.
-2.
-3.
+1.hydrogen
+2.helium
+3.lithium
 
 D. Enter the top three companies in the fortune 500 below
 1.Walmart
